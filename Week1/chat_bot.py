@@ -4,7 +4,7 @@ import torch.nn.functional as F
 import pandas as pd
 
 # Model yükleniyor
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
 
 # CSV'den veri okuma
 csv_path = "C:/Users/user/Desktop/Acunmedya-ChatBot_Proje/Week1/siber_guvenlik_sorular.csv"
