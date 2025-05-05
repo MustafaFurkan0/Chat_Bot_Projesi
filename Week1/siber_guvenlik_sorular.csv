@@ -1,0 +1,21 @@
+soru,cevap
+Firewall nedir?,"Firewall, gelen ve giden ağ trafiğini kontrol eden güvenlik sistemidir."
+Sosyal mühendislik saldırısı nedir?,İnsanları manipüle ederek gizli bilgileri elde etme yöntemidir.
+XSS saldırısı nasıl çalışır?,"XSS, zararlı kodların web sayfalarına enjekte edilmesiyle çalışır."
+SQL Injection nasıl tespit edilir?,Giriş verileri filtrelenerek ve log analizleriyle tespit edilir.
+VPN neden kullanılır?,"VPN, verilerin şifreli bir tünelden iletilmesini sağlar, gizliliği artırır."
+DDoS saldırısı nedir?,Hedef sistemi aşırı trafikle meşgul ederek hizmet veremez hale getirme saldırısıdır.
+Siber saldırılara karşı en temel önlem nedir?,Güncel yazılımlar ve güçlü şifre kullanımı ilk adımdır.
+Zero-day açığı nedir?,Henüz yaması bulunmayan ve aktif olarak kullanılan güvenlik açığıdır.
+Pentest nedir?,Sistemlerdeki güvenlik açıklarını belirlemek için yapılan etik saldırı testidir.
+Antivirüs programı nasıl çalışır?,Zararlı yazılımları tespit eder ve kullanıcıyı uyarır veya siler.
+Brute force saldırısı nedir?,Şifrelerin olası kombinasyonlarla denenerek kırılmaya çalışılmasıdır.
+Hashing ile şifreleme farkı nedir?,"Hashing tek yönlüdür, şifreleme çift yönlüdür ve geri çözülebilir."
+Çift faktörlü kimlik doğrulama nedir?,Kullanıcıdan iki ayrı doğrulama (şifre + telefon gibi) istenmesidir.
+Phishing nasıl tespit edilir?,"Şüpheli bağlantılar, alan adları ve aceleci dil gibi ipuçları incelenir."
+IDS ve IPS farkı nedir?,"IDS sadece izler, IPS ise saldırıyı engeller."
+Siber güvenlik neden önemlidir?,"Kritik verilerin çalınmasını, bozulmasını veya yok olmasını engeller."
+Man-in-the-Middle saldırısı nedir?,İki taraf arasındaki iletişimin gizlice dinlenmesi veya değiştirilmesidir.
+Zararlı yazılımlar nasıl yayılır?,"E-posta ekleri, USB bellekler veya sahte yazılımlarla yayılabilir."
+Log analizi neden önemlidir?,Saldırı belirtileri loglarda erken fark edilebilir.
+Sızma testi araçlarına örnek ver?,"Metasploit, Burp Suite ve Nmap sıkça kullanılan araçlardandır."
