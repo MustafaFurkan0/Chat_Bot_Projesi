@@ -25,7 +25,7 @@ print("Çıkmak için 'çık' yazın.\n")
 while True:
     user_input = input("Soru girin: ")
 
-    if user_input.lower() == "çık" or "Çık" or "ÇIK":
+    if user_input.lower() == "çık":
         print("Asistan sonlandırıldı.")
         break
 
@@ -34,7 +34,7 @@ while True:
     en_yakin_idx = torch.argmax(benzerlik_skorlari).item()
     skor = benzerlik_skorlari[en_yakin_idx].item()
 
-    if skor < 0.70:
+    if skor < 0.60:
         print("⚠️ Teknik bir soru tespit edilemedi. Daha spesifik bir soru girin.\n")
     else:
         print(f"\n✅ En yakın soru  : {data[en_yakin_idx]['soru']}")
