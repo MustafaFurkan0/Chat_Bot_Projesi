@@ -1,0 +1,34 @@
+# FastAPI & Uvicorn
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# Sentence Transformers (Embedding işlemleri)
+sentence-transformers==2.7.0
+transformers==4.40.0
+torch==2.2.2
+scikit-learn==1.4.2
+
+# ChromaDB istemcisi
+chromadb==0.4.24
+
+# OpenAI API
+openai==1.25.0
+
+# .env dosyaları için
+python-dotenv==1.0.1
+
+# Veri işleme
+pandas==2.2.2
+
+# HTTP istemcisi (eğer dış servislerle bağlantı varsa)
+httpx==0.27.0
+
+# Logger için
+loguru==0.7.2
+
+# CORS desteği (API’ye dış bağlantı için)
+aiofiles==23.2.1
+jinja2==3.1.3
+
+# Landbot Webhook veya dış sistemle iletişim için (gerekirse)
+requests==2.31.0
